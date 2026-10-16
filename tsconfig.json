@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2021",
+    "sourceMap": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "types": ["node", "jest"],
+    "ignoreDeprecations": "6.0",
+    "incremental": true,
+    "skipLibCheck": true,/Users/quiqueee/Documents/Semestre 5/Integración de seguridad informática en redes y sistemas de software/fishy_backend/Fishy_backend/backend/jest.config.js
+    /Users/quiqueee/Documents/Semestre 5/Integración de seguridad informática en redes y sistemas de software/fishy_backend/Fishy_backend/backend/README.md
+    /Users/quiqueee/Documents/Semestre 5/Integración de seguridad informática en redes y sistemas de software/fishy_backend/Fishy_backend/backend/tsconfig.json
+    /Users/quiqueee/Documents/Semestre 5/Integración de seguridad informática en redes y sistemas de software/fishy_backend/Fishy_backend/backend/tsconfig.tsbuildinfo
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": false,
+    "forceConsistentCasingInFileNames": true
+  }
+}
